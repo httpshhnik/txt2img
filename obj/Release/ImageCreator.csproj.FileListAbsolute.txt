@@ -1,0 +1,10 @@
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\bin\Release\ImageCreator.exe.config
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\bin\Release\ImageCreator.exe
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\bin\Release\ImageCreator.pdb
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\obj\Release\ImageCreator.csprojAssemblyReference.cache
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\obj\Release\ImageCreator.Form1.resources
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\obj\Release\ImageCreator.Properties.Resources.resources
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\obj\Release\ImageCreator.csproj.GenerateResource.cache
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\obj\Release\ImageCreator.csproj.CoreCompileInputs.cache
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\obj\Release\ImageCreator.exe
+C:\Users\NShevchenko\source\repos\ImageCreator\ImageCreator\obj\Release\ImageCreator.pdb

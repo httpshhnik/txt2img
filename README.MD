@@ -1,0 +1,1 @@
+Tools is converting txt in png for each folder in a list. It saved the images to img subfolder.
